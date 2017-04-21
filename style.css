@@ -1,0 +1,41 @@
+body {
+	background-image: url("http://www.solidbackgrounds.com/images/2560x1600/2560x1600-light-gray-solid-color-background.jpg");
+	background-position: center
+	font-family: "Forte", cursive;
+	color: #0000;
+	font-stretch: normal;
+	font-size: 30px;
+	line-height:30px 
+}
+h1 {
+	font-family: "Freestyle Script", cursive;
+	font-size: 50px;
+	color: #404040;
+	font-style: cursive;
+	font-variant: normal;
+	font-weight: 800;
+	line-height: 50px;
+}
+.button {
+    background-color: #FFC0CB;
+    border: none;
+    color: gray;
+    padding: 10px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+section {
+	float: left;
+	max-width: 300px;
+	margin: 0;
+	padding: 1em;
+aside {
+	color: gray;
+	font-family: Comic Sans MS;
+	font-size: 200px;
+	tex-align: justify;
+}
